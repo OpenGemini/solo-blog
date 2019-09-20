@@ -10,6 +10,7 @@ LeviTang的个人博客
 
 ### 最新
 
+* [银行对接时遇到的一些坑，使用云函数服务解决不同语言环境问题](http://www.tanglifeng.cn/articles/2019/09/20/1568961977210.html)
 * [css 选择器的优先级别](http://www.tanglifeng.cn/articles/2019/08/29/1567049692195.html)
 * [docker常用命令](http://www.tanglifeng.cn/articles/2019/08/20/1566272512813.html)
 * [Sequlize中Count和Groupby的用法](http://www.tanglifeng.cn/articles/2019/08/16/1565946555822.html)
