@@ -10,6 +10,7 @@ LeviTang的个人博客
 
 ### 最新
 
+* [postgre设置id自增](https://www.tanglifeng.cn/articles/2019/11/19/1574132138243.html)
 * [我在 GitHub 上的开源项目](https://www.tanglifeng.cn/my-github-repos)
 * [银行对接时遇到的一些坑，使用云函数服务解决不同语言环境问题](https://www.tanglifeng.cn/articles/2019/09/20/1568961977210.html)
 * [css 选择器的优先级别](https://www.tanglifeng.cn/articles/2019/08/29/1567049692195.html)
